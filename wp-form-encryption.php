@@ -1,9 +1,11 @@
 <?php
 /*
- Plugin Name: WP Form Encryption
+Plugin Name: WP Form Encryption
+Plugin URI: https://github.com/subhransusekhar/wp-form-encryption
 Description: jQuery plugin for encrypting form data in javascript using jCryption library
 Version: 1.0
 Author: Subhransu Sekhar, binaya.topno
+Author URI: http://subhransusekhar.com/
 */
 
 define( 'JCRYPTION__PLUGIN_URL', plugin_dir_url( __FILE__ ) );

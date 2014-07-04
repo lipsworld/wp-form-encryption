@@ -1,4 +1,4 @@
-=== Safe Cookies ===
+=== WP Form Encryption ===
 Contributors: Subhransu Sekhar
 Tags: Encryption, encrypt submission, form encryption, login, security
 Requires at least: 3.2.1
@@ -20,4 +20,3 @@ To install the plugin follow these steps :
 4. Activate the plugin through the 'Plugins' menu in WordPress
 5. Then go to Settings => General
 6. Then put the Comma Separated Form IDs under the section "Form to Encrypt (Comma Separated Form IDs)"
-
